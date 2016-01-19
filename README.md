@@ -1,2 +1,1 @@
-# shingle-compare
-Shingle Text Compare on PHP
+# Shingle Text Compare on PHP
